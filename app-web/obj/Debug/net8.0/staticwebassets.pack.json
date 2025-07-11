@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\rbnin\\source\\repos\\app-web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AppWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AppWeb.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\rbnin\\source\\repos\\app-web\\wwwroot\\Pelé do JIC.jpeg",
+      "PackagePath": "staticwebassets\\Pelé do JIC.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\rbnin\\source\\repos\\app-web\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\rbnin\\source\\repos\\app-web\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rbnin\\source\\repos\\app-web\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rbnin\\source\\repos\\app-web\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AppWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AppWeb.props",
+      "PackagePath": "build\\AppWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AppWeb.props",
+      "PackagePath": "buildMultiTargeting\\AppWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AppWeb.props",
+      "PackagePath": "buildTransitive\\AppWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
